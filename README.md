@@ -1,4 +1,16 @@
-# About the App
+<br />
+<p align="center">
+  <a href="https://github.com/retruxstudio/MobdevCam">
+    <img src="assets/images/ovo.png" alt="Logo">
+  </a>
+
+  <h3 align="center">OVO</h3>
+  <p align="center">
+    Redesign by Retrux
+    <br>
+    <br>
+  </p>
+</p>
 
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](#)
 [![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
