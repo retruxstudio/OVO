@@ -6,7 +6,7 @@
 
   <h3 align="center">OVO Recreated</h3>
   <p align="center">
-    One of the most famous e-wallet applications in Indonesia
+    One of the most famous e-wallet application in Indonesia
     <br>
     <br>
   </p>
@@ -18,7 +18,7 @@
 [![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
 ## About the App
 
-<p align="justify">We have an idea to recreate one of the most famous e-wallet applications in Indonesia, OVO. So, we did it! Starting with recreating the app layout, iconography, and every banner in each section in the app, we aim to make it as close as possible to the real app. After that, we implement everything to an actual application with flutter, even the QR scanner animation, that's cool right!
+<p align="justify">We have an idea to recreate one of the most famous e-wallet application in Indonesia, OVO. So, we did it! Starting with recreating the app layout, iconography, and every banner in each section in the app, we aim to make it as close as possible to the real app. After that, we implement everything to an actual application with flutter, even the QR scanner animation, that's cool right!
 </p>
 
 ## Requirements
