@@ -14,8 +14,8 @@
 
 ![Animation](assets/images/hero.gif)
 
-[![OS](https://img.shields.io/badge/OS-Android-0E84E5)](https://github.com/retruxstudio/MobdevCam)
-[![OS](https://img.shields.io/badge/-Flutter-41D0FD)](https://github.com/retruxstudio/OVO)
+[![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
+[![OS](https://img.shields.io/badge/-Flutter-41D0FD)](#)
 ## About the App
 
 <p align="justify">We have an idea to recreate one of the most famous e-wallet application in Indonesia, OVO. So, we did it! Starting with recreating the app layout, iconography, and every banner in each section in the app, we aim to make it as close as possible to the real app. After that, we implement everything to an actual application with flutter, even the QR scanner animation, that's cool right!
