@@ -6,7 +6,7 @@
 
   <h3 align="center">OVO Recreated</h3>
   <p align="center">
-    One of the most famous e-wallet application in Indonesia
+    One of the most famous e-wallet applications in Indonesia
     <br>
     <br>
   </p>
