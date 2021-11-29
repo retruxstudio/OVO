@@ -1,16 +1,28 @@
-# ovo
+# About the App
 
-A new Flutter project.
+[![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](#)
+[![OS](https://img.shields.io/badge/OS-Android-0E84E5)](#)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Animation](img/hero.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## About the App
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+We have an idea to recreate one of the famous e-wallet apps in Indonesia, OVO. So, we do it! Starting with recreating an app layout, iconography, and every banner in each section in the app to make it as close as possible with the real app. After that, we implement the UI to the android code with flutter, even the QR scanner animation, that's cool right!
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+To run this project, clone this repo, ...
+
+## Requirements
+
+- Android Studio
+- ...
+
+## Retrux's development lab
+
+Retrux Studio, hello@retrux.com
+
+Retrux is a leading digital agency with solid design and development expertise. We build mobile and web products for startups. Drop us a line.
+
+## License
+
+MobdevCam is available under the MIT license. See the LICENSE file for more info.
