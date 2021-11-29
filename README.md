@@ -32,6 +32,16 @@ Anyway, you can try this recreated ovo app on your android phone by visiting our
 - Flutter 2.0+
 - Dart 2.13+
 
+## Installation
+
+To run this app, clone this project and run just like your usual flutter project
+```ruby
+flutter run
+```
+or
+```ruby
+flutter pub get
+```
 ## Retrux's development lab
 
 Retrux Studio, hello@retrux.com
